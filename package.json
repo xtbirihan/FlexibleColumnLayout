@@ -1,0 +1,14 @@
+{
+  "name": "flexible.column.layout",
+  "version": "1.0.0",
+  "description": "Flexible Column Layout App",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "author": "H Tugay Birihan",
+  "license": "ISC",
+  "devDependencies": {
+    "@ui5/cli": "^2.14.9"
+  }
+}
