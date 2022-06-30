@@ -17,6 +17,7 @@ sap.ui.define([
             
             this.currentRouteName = sRouteName;
             this.currentProduct = oArguments.product;
+            this.currentSupplier = oArguments.supplier;
 		},
 
 		onStateChanged: function (oEvent) {
